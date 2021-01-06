@@ -1,2 +1,3 @@
-1. client 실행 : npm run serve // client 서버 실행
-2. server 실행 : npm start     // server 서버 실행
+- client 실행 : npm run serve // client 서버 실행
+- server 실행 : npm start     // server 서버 실행
+- Test DB 데이터 조회 : http://localhost:3001/api/get
